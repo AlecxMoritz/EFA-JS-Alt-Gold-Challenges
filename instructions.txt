@@ -1,0 +1,9 @@
+These challenges serve to see how much about JavaScript you know, and how far you can take your skills. This is also test your research ability, as you may need to find different Array, Object, or String methods to work with to complete these. 
+
+Out of seven (7) challenges, you will need to submit five (5).
+
+To make sure you are able to submit them, follow these instructions.
+
+After cloning the repository. Open it in your terminal. If you run 'dir' it will print out all of the files in this folder. Then run a 'git remote remove origin' to remove the tether to the original repository.
+
+Create your own repository on github and follow the usual steps to push your code. Remember to re-push when you are finished, good luck!

@@ -1,6 +1,6 @@
 These challenges serve to see how much about JavaScript you know, and how far you can take your skills. This is also test your research ability, as you may need to find different Array, Object, or String methods to work with to complete these. 
 
-Out of seven (7) challenges, you will need to submit five (5).
+Out of seven (7) challenges, complete the number your instructor has assigned.
 
 To make sure you are able to submit them, follow these instructions.
 
